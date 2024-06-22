@@ -1,6 +1,6 @@
 ## TUGAS FINAL SISTEM INFORMASI GEOGRAFIS
-- NAMA  : AMELIA
-- NIM   : D0221111
+- NAMA  : AQMAL RAMADHANI KH
+- NIM   : D0221063
 - KELAS : INFORMATIKA A
 ## DEMO
-https://Amelia-D0221111.github.io/SistemInformasiGeografis
+https://github.com/aqmalramadhanikh/UAS_SIG/tree/main/UAS_SistemInformasiGeografis/UAS_SistemInformasiGeografis
